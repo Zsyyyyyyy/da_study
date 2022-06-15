@@ -1,5 +1,7 @@
 package com.zsy.app;
 
+import com.zsy.app.greedy.ContainerWithMostWater;
+import com.zsy.app.greedy.JumpGame;
 import org.junit.Test;
 
 public class Application {
